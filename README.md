@@ -1,4 +1,4 @@
-# jamtech_frontend
+# jamtech_forntend
 
 ## Project setup
 ```
